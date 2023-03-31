@@ -1,0 +1,11 @@
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\bin\Debug\Lista de Tarefas.exe.config
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\bin\Debug\Lista de Tarefas.exe
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\bin\Debug\Lista de Tarefas.pdb
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista de Tarefas.csproj.AssemblyReference.cache
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista de Tarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista_de_Tarefas.Principal.resources
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista_de_Tarefas.Properties.Resources.resources
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista de Tarefas.csproj.GenerateResource.cache
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista de Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista de Tarefas.exe
+C:\Users\Intel\Desktop\MeusProjetos\CheckList\Lista de Tarefas\Lista de Tarefas\obj\Debug\Lista de Tarefas.pdb
