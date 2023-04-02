@@ -32,6 +32,7 @@
             this.btnAdicionar = new System.Windows.Forms.Button();
             this.txtNewlist = new System.Windows.Forms.TextBox();
             this.btnLimpar = new System.Windows.Forms.Button();
+            this.btnLimSelect = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // ListaLista
@@ -59,6 +60,7 @@
             this.txtNewlist.Name = "txtNewlist";
             this.txtNewlist.Size = new System.Drawing.Size(477, 20);
             this.txtNewlist.TabIndex = 3;
+            this.txtNewlist.Text = "adcione uma lista";
             this.txtNewlist.TextChanged += new System.EventHandler(this.txtNewlist_TextChanged);
             // 
             // btnLimpar
@@ -71,18 +73,29 @@
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
+            // btnLimSelect
+            // 
+            this.btnLimSelect.Location = new System.Drawing.Point(441, 346);
+            this.btnLimSelect.Name = "btnLimSelect";
+            this.btnLimSelect.Size = new System.Drawing.Size(91, 34);
+            this.btnLimSelect.TabIndex = 5;
+            this.btnLimSelect.Text = "Limpar itens selecionados";
+            this.btnLimSelect.UseVisualStyleBackColor = true;
+            this.btnLimSelect.Click += new System.EventHandler(this.btnLimSelect_Click);
+            // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(733, 452);
+            this.Controls.Add(this.btnLimSelect);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.txtNewlist);
             this.Controls.Add(this.btnAdicionar);
             this.Controls.Add(this.ListaLista);
             this.Name = "Principal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Lista de Tarefas";
+            this.Text = " ";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -94,6 +107,7 @@
         private System.Windows.Forms.Button btnAdicionar;
         private System.Windows.Forms.TextBox txtNewlist;
         private System.Windows.Forms.Button btnLimpar;
+        private System.Windows.Forms.Button btnLimSelect;
     }
 }
 
